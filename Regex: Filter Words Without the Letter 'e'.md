@@ -24,8 +24,7 @@ for i in items:
 print("Words without 'e':", l1)
 ```
 ## Output
-```
-Words without 'e': ['goal', 'sit']
-```
+![image](https://github.com/user-attachments/assets/b2398389-9433-4623-a98a-48ece630832d)
+
 ## Result
 Thus the given program is verified and executed sucessfully
