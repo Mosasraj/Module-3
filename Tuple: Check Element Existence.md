@@ -11,16 +11,13 @@ To write a Python program that checks if the element `'n'` and the element `8` e
 
 ## 🧾 Program
 ```
-x = ('a', 'b', 'n', 4, 8, 10)
-check_n = 'n' in x
-check_8 = 8 in x
-print("'n' in tuple:", check_n)
-print("8 in tuple:", check_8)
+a=eval(input())
+print("n" not in a)
+print("8" in a)
+
 ```
 ## Output
-```
-'n' in tuple: True
-8 in tuple: True
-```
+![image](https://github.com/user-attachments/assets/2b1deb11-8844-4ba7-9887-2c54bd6e651f)
+
 ## Result
 Thus the given program is verified and executed sucessfully
